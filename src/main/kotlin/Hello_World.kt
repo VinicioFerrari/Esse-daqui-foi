@@ -5,17 +5,19 @@ fun main(){
     println(Double.MAX_VALUE)
     println(Float.MAX_VALUE)
 
-    val resultadoDaSoma=soma(10,10)
-    teste(resultadoDaSoma)
+    val resultadoDaSubtracao=subtracao(10,10)
+    mostraResultado(resultadoDaSubtracao)
+
 
 
 
 }
-fun teste(value:Int){
+
+fun subtracao(a: Int, b: Int): Int {
+    return a-b
+}
+
+fun mostraResultado(value:Int){
     println("Resultado da $value")
 }
 
-fun soma(a:Int,b:Int):Int{
-    return a+b
-
-}
