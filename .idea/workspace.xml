@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aec3f19c-d32f-415b-b3bf-c5655b01ce31" name="Changes" comment="Mensagem de teste">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_World.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Hello_World.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_World.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674067926548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mensagem de teste">
+      <created>1674070162930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674070162930</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
